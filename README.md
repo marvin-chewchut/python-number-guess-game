@@ -16,7 +16,8 @@ The Number Guessing Game is a simple command-line (CLI) Python program where:
 ### Run the game
 1. Open a terminal and change directory to the project root.
 2. Start the script:
-    In Windows
+
+    In Windows:
       ```
       python main.py
       ```
